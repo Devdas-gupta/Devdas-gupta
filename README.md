@@ -5,7 +5,7 @@
 - 🌱 Passionate about programming and cybersecurity
 - 😄 Finds joy in solving problems and exploring new technologies
 - ⚡ Introverted thinker who often dives deep into reflections about life and beyond
-- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/devdas-kumar-889055234/)
+- 📫 [Portfolio](https://devdasgupta.in/)
 
 ## 🌐 Socials
 ![Profile Views](https://komarev.com/ghpvc/?username=Devdas-gupta&color=brightgreen&style=flat)
