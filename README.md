@@ -51,3 +51,15 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devdas-gupta&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+## 📧 Contact Information
+
+You can reach out to me via:
+
+- Email: devdasgupta38@gmail.com
+- LinkedIn: [Devdas Kumar](https://www.linkedin.com/in/devdas-kumar-889055234/)
+- Twitter: [@DevdasGupta10](https://twitter.com/DevdasGupta10)
+- GitHub: [devdas-gupta](https://github.com/devdas-gupta)
+- Personal Website: [devdasgupta.in](https://devdasgupta.in)
+
+
