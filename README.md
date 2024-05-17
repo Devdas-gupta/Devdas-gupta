@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 ![Profile Views](https://komarev.com/ghpvc/?username=Devdas-gupta&color=brightgreen&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdas-kumar-889055234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdas-kumar-cybersecurity/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DevdasGupta10)
 [![GitHub Devdas-gupta](https://img.shields.io/github/followers/Devdas-gupta?label=follow&style=social)](https://github.com/Devdas-gupta)
 
