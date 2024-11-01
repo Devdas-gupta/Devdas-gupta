@@ -7,6 +7,7 @@
 - ⚡ Introverted thinker who often dives deep into reflections about life and beyond
 - 📫 [Portfolio](https://devdasgupta.in/)
 
+---
 
 ```python
 
