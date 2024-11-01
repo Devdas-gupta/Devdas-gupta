@@ -9,7 +9,6 @@
 
 
 ```python
-# Meet my profile in code!
 
 def identity():
     H_D_J = {}  # H.D.J. stands for "Hidden Devdas Journey" 
