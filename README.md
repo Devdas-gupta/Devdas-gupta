@@ -1,4 +1,4 @@
-### <center>Hello, I'm Devdas Kumar 👋</center>
+# <center>Hello, I'm Devdas Kumar 👋</center>
 
 ## 💫 About Me
 - 🔭 BCA student at Amity University
@@ -6,6 +6,35 @@
 - 😄 Finds joy in solving problems and exploring new technologies
 - ⚡ Introverted thinker who often dives deep into reflections about life and beyond
 - 📫 [Portfolio](https://devdasgupta.in/)
+
+
+```python
+# Meet my profile in code!
+
+def identity():
+    H_D_J = {}  # H.D.J. stands for "Hidden Devdas Journey" 
+    H_D_J["job"] = "Cybersecurity / AI Researcher"
+    H_D_J["pronouns"] = "He/Him"
+    H_D_J["special_move"] = [
+        "💻 Web Hacking", 
+        "📱 Root User or Android Hacking", 
+        "🧠 Human Hacking - understanding and influencing human behavior for security"
+    ]
+    
+    # Cybersecurity setup with favorite tools
+    H_D_J["main_weapon"] = [
+        "🛡️ Burp Suite - for web hacking",
+        "🔍 Metasploit - for penetration testing",
+        "📲 Magisk Manager - for Android rooting",
+        "🐧 Linux - for its flexibility and power",
+        "🐀 Custom RATs - for controlled exploitation"
+    ]
+    
+    H_D_J["favorite_language"] = ["🐍 Python", "✨ JavaScript", "🦾 Rust"]
+    
+    return H_D_J
+
+```
 
 ## 🌐 Socials
 ![Profile Views](https://komarev.com/ghpvc/?username=Devdas-gupta&color=brightgreen&style=flat)
