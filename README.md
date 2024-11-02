@@ -1,14 +1,17 @@
-# <center>Hello, I'm Devdas Kumar 👋</center>
+# <h1 align="center">Hello, I'm Devdas Kumar 👋</h1>
 
 ## 💫 About Me
-- 🔭 BCA student at Amity University
-- 🌱 Passionate about programming and cybersecurity
-- 😄 Finds joy in solving problems and exploring new technologies
-- ⚡ Introverted thinker who often dives deep into reflections about life and beyond
-- 📫 [Portfolio](https://devdasgupta.in/)
+- 🎓 **BCA Student** specializing in **Cloud Computing** at Amity University, diving deep into **Cybersecurity** and **AI Research**.
+- 🌱 Passionate about **cybersecurity**, **problem-solving**, and exploring emerging technologies.
+- 🤔 An **introvert overthinker** who enjoys reflecting on life and often dives deep into exploring new ideas.
+- 💡 Always curious and eager to tackle complex challenges head-on.
+- 🌐 Take a look at my **[Portfolio](https://devdasgupta.in/)** to explore more about my journey!
 
 ---
 
+<details>
+<summary>👨‍💻 Open for my Cybersecurity Profile Setup</summary>
+    
 ```python
 
 def identity():
@@ -35,6 +38,10 @@ def identity():
     return H_D_J
 
 ```
+
+![Cyber Setup](https://img.shields.io/badge/Cyber%20Setup-%23000000.svg?style=for-the-badge&logo=hackerone&logoColor=green)
+
+</details>
 
 ## 🌐 Socials
 ![Profile Views](https://komarev.com/ghpvc/?username=Devdas-gupta&color=brightgreen&style=flat)
