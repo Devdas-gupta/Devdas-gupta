@@ -79,13 +79,17 @@ def identity():
 ![Hydra](https://img.shields.io/badge/Hydra-%23222222.svg?style=for-the-badge&logo=hydra&logoColor=green)
 
 ## 💻 Languages I Often Use
-![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Devdas-gupta&layout=compact&theme=slateorange&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devdas-gupta&layout=compact&theme=radical&langs_count=6)
 
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devdas-gupta&count_private=true&show_icons=true&theme=slateorange)
+---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devdas-gupta&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devdas-gupta&count_private=true&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devdas-gupta&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📧 Contact Information
 
