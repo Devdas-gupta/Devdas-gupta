@@ -9,6 +9,14 @@
 
 ---
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Exploring+the+cyber+frontier.;%F0%9F%92%BB+Ethical+Hacking+%7C+Cybersecurity.;%F0%9F%8C%90+Building+a+safer+digital+future.;%F0%9F%94%8D+Hunting+bugs%2C+fortifying+systems.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 <details>
 <summary>👨‍💻 Open for my Cybersecurity Profile Setup</summary>
     
