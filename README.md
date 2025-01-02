@@ -98,15 +98,3 @@ def identity():
 
 ## 🏆 GitHub Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Devdas-gupta&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-## 📧 Contact Information
-
-You can reach out to me via:
-
-- Email: devdasgupta38@gmail.com
-- LinkedIn: [Devdas Kumar](https://www.linkedin.com/in/devdas-kumar-cybersecurity/)
-- Twitter: [@DevdasGupta10](https://twitter.com/DevdasGupta10)
-- GitHub: [devdas-gupta](https://github.com/devdas-gupta)
-- Personal Website: [devdasgupta.in](https://devdasgupta.in)
-
-
